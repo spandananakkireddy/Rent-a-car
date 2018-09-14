@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Sai_Spandana_Nakkireddy_Project">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="jstl-1.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jstl-1.2/jstl-1.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="batik-css-1.7.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/batik-css-1.7/batik-css-1.7">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mysql-connector-java-5.1.23-bin.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/mysql-connector-java-5.1.23-bin/mysql-connector-java-5.1.23-bin">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="batik-util-1.7.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/batik-util-1.7/batik-util-1.7">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-fileupload-1.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-fileupload-1.2/commons-fileupload-1.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="batik-ext-1.7.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/batik-ext-1.7/batik-ext-1.7">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-beanutils-1.7.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-beanutils-1.7.0/commons-beanutils-1.7.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="antisamy-1.4.3.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/antisamy-1.4.3/antisamy-1.4.3">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="log4j-1.2.16.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/log4j-1.2.16/log4j-1.2.16">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mysql-connector-java-5.0.8-bin.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/mysql-connector-java-5.0.8-bin/mysql-connector-java-5.0.8-bin">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="activation.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/activation/activation">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-httpclient-3.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-httpclient-3.1/commons-httpclient-3.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tomcat-dbcp.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/tomcat-dbcp/tomcat-dbcp">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="esapi-2.0GA.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/esapi-2.0GA/esapi-2.0GA">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-logging-1.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-logging-1.1/commons-logging-1.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="xml-apis-ext-1.3.04.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/xml-apis-ext-1.3.04/xml-apis-ext-1.3.04">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-lang-2.3.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-lang-2.3/commons-lang-2.3">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="xercesImpl-2.6.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/xercesImpl-2.6.2/xercesImpl-2.6.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="xmlParserAPIs-2.6.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/xmlParserAPIs-2.6.2/xmlParserAPIs-2.6.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-beanutils-core-1.7.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-beanutils-core-1.7.0/commons-beanutils-core-1.7.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="javaee.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/javaee/javaee">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="xml-apis-1.0.b2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/xml-apis-1.0.b2/xml-apis-1.0.b2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="nekohtml-1.9.12.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/nekohtml-1.9.12/nekohtml-1.9.12">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="xalan-2.7.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/xalan-2.7.0/xalan-2.7.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="bsh-core-2.0b4.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/bsh-core-2.0b4/bsh-core-2.0b4">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-collections-3.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-collections-3.2/commons-collections-3.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="logkit-1.0.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/logkit-1.0.1/logkit-1.0.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jaxen-1.1-beta-8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jaxen-1.1-beta-8/jaxen-1.1-beta-8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mail.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/mail/mail">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="dom4j-1.6.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/dom4j-1.6.1/dom4j-1.6.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="servlet-api-2.4.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/servlet-api-2.4/servlet-api-2.4">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="xom-1.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/xom-1.1/xom-1.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-digester-1.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-digester-1.8/commons-digester-1.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="javax.mail.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/javax.mail/javax.mail">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-configuration-1.5.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-configuration-1.5/commons-configuration-1.5">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-codec-1.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-codec-1.2/commons-codec-1.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="avalon-framework-4.1.3.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/avalon-framework-4.1.3/avalon-framework-4.1.3">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tomcat-jdbc.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/tomcat-jdbc/tomcat-jdbc">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="poi-3.10-FINAL-20140208.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/poi-3.10-FINAL-20140208/poi-3.10-FINAL-20140208">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jdom-1.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jdom-1.0/jdom-1.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="Sai_Spandana_Nakkireddy_Project"/>
+        <property name="java-output-path" value="/Sai_Spandana_Nakkireddy_Project/build/classes"/>
+    </wb-module>
+</project-modules>

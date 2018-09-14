@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/NBADProject">
+
+
+	<Resource name="jdbc/cars" auth="Container" driverClassName="com.mysql.jdbc.Driver"
+		url="jdbc:mysql://rentacardb.c3uw78z0w4om.us-east-2.rds.amazonaws.com"
+		username="spandana" password="12345678" maxActive="100" maxIdle="30"
+		maxWait="10000" logAbandoned="true" removeAbandoned="true"
+		removeAbandonedTimeout="60" type="javax.sql.DataSource" />
+</Context>

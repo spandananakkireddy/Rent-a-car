@@ -1,0 +1,302 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Author     : SPANDANA
+*/
+#wrapper {
+	width: 100%;
+	margin: 0 auto;
+}
+
+body {
+	min-height: 100%;
+	margin: 0 auto;
+	background-color: #ffdab9;
+	clear: both;
+	background-image: url("../images/car1.jpg");
+	/* Full height */
+	height: 100%;
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+button {
+	padding: 0.5em;
+	border-radius: 0.5em;
+}
+
+nav {
+	background-color: #FF4D4D;
+	margin: 0;
+	overflow: hidden;
+	position: static;
+}
+
+table, th, td {
+	border: 1px solid white;
+	padding: 1em;
+	border-collapse: collapse;
+}
+
+tr:nth-child(even) {
+	background-color: #ffebcd;
+}
+
+tr:nth-child(odd) {
+	background-color: #ffffff;
+}
+
+th {
+	text-align: center;
+}
+
+td {
+	text-align: center;
+}
+
+.table {
+	width: 50px;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+nav#header_menu ul li a {
+	display: block;
+	line-height: 2em;
+	color: #ffffff;
+	padding: 1em 1em;
+	text-decoration: none;
+}
+
+hover.a {
+	background-color: buttonface
+}
+
+nav#menu {
+	color: black;
+	background-color: #475D9F;
+	font-weight: bold;
+	float: left;
+	display: block;
+	line-height: 3em;
+	margin: 20px;
+	margin-bottom: 100px;
+	border: 1px solid black;
+	text-decoration: none;
+	width: 150px;
+}
+
+nav#header_menu ul li {
+	display: inline-block;
+	list-style-type: none;
+}
+
+nav .left {
+	float: left;
+	padding: 1em 1em;
+	font-weight: bold;
+	font-size: 30px;
+	color: #ffffff;
+}
+
+nav .right {
+	float: right;
+	margin-right: 2em;
+	color: #ffffff;
+}
+
+/* footer.jsp *******************************/
+.copyright {
+	position: fixed;
+	bottom: 0;
+	margin-top: 100px;
+	width: 100%;
+	padding: 20px 20px;
+	background: #FF4D4D;
+	text-align: center;
+	color: white;
+}
+
+/* header.jsp  */
+#header {
+	position: auto;
+}
+
+#forgot_password_link {
+	color: #ff6666;
+	margin-left: 20%;
+}
+
+#admin {
+	color: #ff6666;
+}
+
+nav#menu ul li {
+	display: block;
+	list-style-type: none;
+	border-bottom: 1px solid black;
+	text-align: left;
+	padding-left: 1em;
+	color: #ffffff;
+}
+
+nav#menu ul li a {
+	color: black;
+	text-align: left;
+	display: block;
+	text-decoration: none;
+}
+
+nav#header_menu ul li {
+	display: inline-block;
+	list-style-type: none;
+}
+
+nav#header_menu ul li a.maintitle {
+	padding: 0;
+	color: #ffffff;
+}
+
+nav#header_menu.right {
+	padding: 0;
+	color: #ffffff;
+}
+
+.btn {
+	border-width: 0;
+	border-bottom-width: 3px;
+	border-radius: 3px;
+}
+
+.btn.btn-primary {
+	background: #cc0000;
+	border-color: #2a95be;
+}
+
+.btn.btn-primary:hover, .btn.btn-primary:focus {
+	background: #ff6666;
+}
+
+.form-control {
+	box-shadow: none;
+	-webkit-box-shadow: none;
+}
+
+#h {
+	text-align: center
+}
+
+img {
+	position: static;
+	display: block;
+	height: 44%;
+	width: 45%;
+	margin: -20px auto;
+}
+
+.bg {
+	/* The image used */
+	background-image: url("images/car1.jpg");
+	/* Full height */
+	height: 100%;
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/*register.jsp------*/
+.col-md-offset-3.col-md-7 {
+	margin-left: 20%;
+}
+
+div.col-md-offset-3 {
+	margin-left: 43%;
+}
+
+.contact {
+	text-align: center;
+}
+
+/* about.jsp ********************************/
+#how {
+	text-align: left;
+	margin: 0 auto;
+	margin-bottom: 90px;
+	background-color: #ffebcd;
+	color: black;
+	margin-top: 60px;
+	width: 50%;
+	padding: 10px;
+	border: 4px solid #ff6666;
+	border-radius: 25px;
+}
+
+#about, #contact {
+	text-align: left;
+	margin: 0 auto;
+	margin-bottom: 100px;
+	background-color: #ffebcd;
+	color: black;
+	margin-top: 70px;
+	width: 50%;
+	padding: 20px;
+	border: 4px solid #ff6666;
+	border-radius: 25px;
+}
+
+#register {
+	text-align: left;
+	margin: 0 auto;
+	margin-bottom: 90px;
+	background-color: #ffebcd;
+	color: black;
+	margin-top: 60px;
+	width: 50%;
+	padding: 10px;
+	border: 4px solid #ff6666;
+	border-radius: 25px;
+}
+
+#editp {
+	text-align: left;
+	margin: 0 auto;
+	margin-bottom: 90px;
+	background-color: #ffebcd;
+	color: black;
+	margin-top: 60px;
+	width: 50%;
+	padding: 10px;
+	border: 4px solid #ff6666;
+	border-radius: 25px;
+}
+
+#mail {
+	text-align: left;
+	margin: 0 auto;
+	margin-bottom: 90px;
+	background-color: #ffebcd;
+	color: black;
+	margin-top: 60px;
+	width: 33.333%;
+	padding: 10px;
+	border: 4px solid #ff6666;
+	border-radius: 25px;
+}
+
+div.container {
+	width: 100%
+}
+
+row {
+	margin-right: -20%;
+	margin-right: -5%;
+}
